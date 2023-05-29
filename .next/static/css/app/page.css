@@ -1,0 +1,19 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[3]!./src/app/page.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************/
+.page_main__ibFHK{
+    min-height: 100vh;
+    display: grid;
+    background-color: black;
+    place-content: center;
+    color: white;
+}
+
+.page_mainLink__AvnkW{
+    color: aqua;
+    font-size: xxx-large;
+}
+
+.page_mainDiv__xG0r6{
+    font-size: xx-large;
+}

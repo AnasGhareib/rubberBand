@@ -1,0 +1,16 @@
+.main{
+    min-height: 100vh;
+    display: grid;
+    background-color: black;
+    place-content: center;
+    color: white;
+}
+
+.mainLink{
+    color: aqua;
+    font-size: xxx-large;
+}
+
+.mainDiv{
+    font-size: xx-large;
+}
